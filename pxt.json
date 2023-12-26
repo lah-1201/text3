@@ -10,7 +10,10 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "text.md",
+        "_locales/zh-CN/text.md",
+        "text1.md"
     ],
     "testFiles": [
         "test.ts"
@@ -22,5 +25,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
